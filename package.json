@@ -1,0 +1,15 @@
+{
+  "name": "coiote-plugin",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "Alfredo Varela",
+      "email": "alfredo.varela.romero@gmail.com"
+    }
+  ],
+  "description": "Plugin for CoIoTe",
+  "dependencies": {
+    "bluetooth-serial-port": "^2.0.0",
+    "crc": "^3.4.0"
+  }
+}
